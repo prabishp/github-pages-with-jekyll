@@ -1,9 +1,8 @@
 theme: minima
 title: Growing Up the GitHub Way
 author: Aarya Advaita
-email: your-email@domain.com
-description: > # this means to ignore newlines until "baseurl:"
-  Digital World for the kids
+email: prabishprabhakaran@yahoo.com
+description: Digital World for the kids
 
 # social links
 twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
